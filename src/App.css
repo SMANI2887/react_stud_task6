@@ -1,0 +1,25 @@
+button {
+  border-radius: 10px;
+  margin: 0px 10px 0px 5px;
+}
+
+.form-div {
+  margin-bottom: 10px;
+}
+
+.form-div form input {
+  width: 22%;
+  padding: 5px;
+}
+
+.form-div form button {
+  width: 10%;
+  padding: 5px;
+  cursor: pointer;
+  background-color: rgb(13, 108, 196);
+  color: white;
+}
+
+table {
+  text-align: center;
+}
